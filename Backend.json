@@ -2,9 +2,9 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaGlider:Umbrella_Season_05"
+            "AthenaCharacter:CID_090_Athena_Commando_M_Tactical"
         ],
-        "price": 200
+        "price": 800
     },
     "daily2": {
         "itemGrants": [
