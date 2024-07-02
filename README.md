@@ -1,12 +1,12 @@
-CID_090_Athena_Commando_M_Tactical, 800
-CID_461_Athena_Commando_M_DriftSummer, 1200
-BID_304_Duck, 0
-Pickaxe_ID_073_Balloon, 800
+CID_818_Athena_Commando_F_NeonTightSuit_A, 1500
+CID_805_Athena_Commando_F_PunkDevilSummer, 1200
+na
+Pickaxe_ID_432_Dummeez, 500
 na
 na
-Umbrella_Season_05, 200
-EID_UkuleleTime, 500
-Wrap_085_Beach, 500
-Trails_ID_063_BeachBalls, 300
-EID_AfroHouse, 500
-Pickaxe_ID_014_WinterCamo, 500
+CID_668_Athena_Commando_M_ArcticCamo_Gray, 800
+CID_616_Athena_Commando_F_CavalryBandit, 1200
+EID_DaBounce, 200
+EID_TemperTantrum, 200
+Pickaxe_ID_392_Hostile, 500
+MusicPack_003_OGRemix, 0
