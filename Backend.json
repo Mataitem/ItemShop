@@ -2,19 +2,19 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_090_Athena_Commando_M_Tactical"
+            "CID_818_Athena_Commando_F_NeonTightSuit_A"
         ],
-        "price": 800
+        "price": 1500
     },
     "daily2": {
         "itemGrants": [
-            "AthenaDance:EID_UkuleleTime"
+            "CID_461_Athena_Commando_M_DriftSummer"
         ],
-        "price": 500
+        "price": 1200
     },
     "daily3": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_085_Beach"
+            "Pickaxe_ID_432_Dummeez"
         ],
         "price": 500
     },
@@ -26,15 +26,15 @@
     },
     "daily5": {
         "itemGrants": [
-            "AthenaDance:EID_AfroHouse"
+            "CID_668_Athena_Commando_M_ArcticCamo_Gray"
         ],
-        "price": 500
+        "price": 800
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_014_WinterCamo"
+            "CID_616_Athena_Commando_F_CavalryBandit"
         ],
-        "price": 500
+        "price": 1200
     },
     "featured1": {
         "itemGrants": [
